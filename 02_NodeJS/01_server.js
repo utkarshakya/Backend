@@ -18,4 +18,4 @@ server.listen(8000, () => {
     console.log("Listening on default port 8000"); // Log a message when the server starts listening
 });
 
-// Now go to your browser and hit localhost:8000, you'll see the results
+// Run this file with node and go to your browser and hit localhost:8000, you'll see the results
