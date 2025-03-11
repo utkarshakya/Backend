@@ -77,5 +77,3 @@ Express is a minimal and flexible Node.js web application framework that provide
    ```
 
    - **Serving Static Files:** The `express.static` middleware serves static files from the specified directory. In this example, it serves files from the `public` directory.
-
-By leveraging these features, Express simplifies the development of web applications, allowing you to focus on building your application's core functionality.
